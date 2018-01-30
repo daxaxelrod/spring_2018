@@ -34,4 +34,3 @@ def CRP:
     credit risk premium
     the rate above the risk free rate that the investors demand
     made up of the (probability of default) * (1 - expected recovery in default)
-    
